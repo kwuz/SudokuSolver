@@ -2,7 +2,7 @@
 {
     public class SudokuBoard
     {
-      //  List<Cells> = 
+      public int size { get; set; }
     }
 
    // SudokuBoard loadBoard(inputFile)
