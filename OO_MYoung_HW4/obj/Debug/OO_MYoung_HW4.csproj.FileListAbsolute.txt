@@ -4,3 +4,9 @@ c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\
 c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.pdb
 c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.exe
 c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.pdb
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.exe.config
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.exe
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.pdb
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.exe
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.pdb
+C:\Sites\SudokuSolver\SudokuSolver\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.csprojResolveAssemblyReference.cache
