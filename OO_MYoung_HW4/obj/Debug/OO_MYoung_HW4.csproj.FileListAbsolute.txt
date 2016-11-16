@@ -1,0 +1,6 @@
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.exe.config
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.csprojResolveAssemblyReference.cache
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.exe
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\bin\Debug\OO_MYoung_HW4.pdb
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.exe
+c:\users\kwuz\documents\visual studio 2015\Projects\OO_MYoung_HW4\OO_MYoung_HW4\obj\Debug\OO_MYoung_HW4.pdb
