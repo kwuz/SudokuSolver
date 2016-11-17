@@ -25,7 +25,7 @@ namespace SudokuSolver.IO
             }
             catch (Exception e)
             {
-                Console.WriteLine($"Cannot open input file {fileName}, please try again. error = {e}")
+                Console.WriteLine($"Cannot open input file {fileName}, please try again. error = {e}");
             }
             return result;
         }

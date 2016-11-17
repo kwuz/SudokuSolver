@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using SudokuSolver.IO;
 
 namespace SudokuSolver
 {
@@ -28,7 +29,8 @@ namespace SudokuSolver
             Console.WriteLine("                 `--`----'    '---'                      '---'       `--`----'     ");
             Console.WriteLine("                                                                                   ");
 
-            SudokuBoard board = new SudokuBoard();
+            SudokuBoard board = null;
+            IOStrategy inStrategy = null;
             Console.WriteLine("Please specify an input file (or enter 't' for a default input file");
             string inputfile = Console.ReadLine();
             if (inputfile == "t")
@@ -38,6 +40,11 @@ namespace SudokuSolver
             if (inputfile == "o")
                 outputfile = "output.txt";
 
+            inStrategy = new txtImportExportStrategy();
+            board = inStrategy.LoadBoard(inputfile);
+
+            Console.WriteLine("--INITIAL BOARD--------------------");
+            board.Print(); 
            // board = SudokuBoard.loadBoard(inputfile);
 
             Console.WriteLine("Execution Complete. Press Enter to Exit");

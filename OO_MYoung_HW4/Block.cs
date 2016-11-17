@@ -10,7 +10,7 @@ namespace SudokuSolver
     public class Block : IEnumerable<Cell>
     {
         public int size { get; set; }
-        public List<Cell> cells;
+        public List<Cell> cells = new List<Cell>();
 
         public IEnumerator<Cell> GetEnumerator()
         {
